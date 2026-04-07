@@ -64,7 +64,7 @@ public class AuthView {
 
             }
         } else {
-            System.out.println("Sai mật khẩu");
+            System.err.println("Sai mật khẩu");
         }
     }
 
